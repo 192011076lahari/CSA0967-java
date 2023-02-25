@@ -1,6 +1,6 @@
 import java.util.*;
 class encouneter{
-  public static void main(System.in){
+  public static void main(String[] args){
 int i=0,j=0;
 int n=0;
 int s1=0,s2=0;
